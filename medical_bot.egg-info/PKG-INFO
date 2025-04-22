@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: medical_bot
+Version: 0.0.0
+Summary: Medical AI Chatbot
+Author: fadhelhdz
+Author-email: fadhelharizdz@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
